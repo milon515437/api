@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "brand": "Rolex",
+        "model": "Submariner",
+        "price": 8000.00,
+        "movement": "Automatic",
+        "water_resistance": 300,
+        "case_material": "Stainless Steel",
+        "strap_material": "Oystersteel",
+        "features": [
+            "Date display",
+            "Rotating bezel"
+        ],
+        "image_url": "https://example.com/rolex_submariner.jpg"
+    },
+    {
+        "id": 2,
+        "brand": "Omega",
+        "model": "Speedmaster Professional",
+        "price": 6000.00,
+        "movement": "Manual",
+        "water_resistance": 50,
+        "case_material": "Stainless Steel",
+        "strap_material": "Leather",
+        "features": [
+            "Chronograph",
+            "Tachymeter"
+        ],
+        "image_url": "https://example.com/omega_speedmaster.jpg"
+    },
+    {
+        "id": 3,
+        "brand": "Seiko",
+        "model": "Presage Cocktail Time",
+        "price": 500.00,
+        "movement": "Automatic",
+        "water_resistance": 50,
+        "case_material": "Stainless Steel",
+        "strap_material": "Leather",
+        "features": [
+            "Date display",
+            "Exhibition case back"
+        ],
+        "image_url": "https://example.com/seiko_presage.jpg"
+    },
+    {
+        "id": 4,
+        "brand": "Tag Heuer",
+        "model": "Carrera",
+        "price": 4500.00,
+        "movement": "Automatic",
+        "water_resistance": 100,
+        "case_material": "Titanium",
+        "strap_material": "Rubber",
+        "features": [
+            "Chronograph",
+            "Luminous markers"
+        ],
+        "image_url": "https://example.com/tag_heuer_carrera.jpg"
+    },
+    {
+        "id": 5,
+        "brand": "Citizen",
+        "model": "Promaster Diver",
+        "price": 300.00,
+        "movement": "Quartz",
+        "water_resistance": 200,
+        "case_material": "Stainless Steel",
+        "strap_material": "Polyurethane",
+        "features": [
+            "ISO certified diver",
+            "Unidirectional bezel"
+        ],
+        "image_url": "https://example.com/citizen_promaster.jpg"
+    }
+]
